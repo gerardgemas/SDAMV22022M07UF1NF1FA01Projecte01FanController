@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SDAMV2.2022.M07.UF1.NF1.FA01-Projecte-01-Fan Controller</string>
+    <string name="ip">Adreça ip del controlador:</string>
+    <string name="on_off">on/off</string>
+    <string name="speed">speed</string>
+    <string name="ip2">Cambiar ip del controlador:</string>
+
+</resources>
